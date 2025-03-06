@@ -1,6 +1,5 @@
 # NexaBoard – The Ultimate React Admin Dashboard 🚀
 
-![NexaBoard Screenshot](https://your-image-link.com)  
 _A modern, feature-rich admin dashboard built with React and Material UI._
 
 ## 🌟 Overview
@@ -37,9 +36,6 @@ npm start  # or yarn start
 ```
 🔹 Open `http://localhost:3000/` in your browser.
 
-
-## 🎨 UI Preview
-![Dashboard Preview](https://your-image-link.com)
 
 ## 📌 Roadmap
 ✅ Light & Dark Mode  
